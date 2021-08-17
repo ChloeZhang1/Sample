@@ -29,7 +29,7 @@
         android:layout_marginBottom="0dp"
         android:layout_toStartOf="@+id/btnAdd"
         android:ems="10"
-        android:text="Add an item here!" />
+        android:hint="Add an item here!"/>
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rvItems"
